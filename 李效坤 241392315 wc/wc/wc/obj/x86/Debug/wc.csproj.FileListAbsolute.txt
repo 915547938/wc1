@@ -1,0 +1,10 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\wc\wc\bin\Debug\wc.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\wc\wc\bin\Debug\wc.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\wc\wc\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\wc\wc\obj\x86\Debug\wc.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\wc\wc\obj\x86\Debug\wc.pdb
+G:\高级软件工程\wc\wc\obj\x86\Debug\wc.exe
+G:\高级软件工程\wc\wc\obj\x86\Debug\wc.pdb
+G:\高级软件工程\wc\wc\bin\Debug\wc.exe
+G:\高级软件工程\wc\wc\bin\Debug\wc.pdb
+G:\高级软件工程\wc\wc\obj\x86\Debug\ResolveAssemblyReference.cache
